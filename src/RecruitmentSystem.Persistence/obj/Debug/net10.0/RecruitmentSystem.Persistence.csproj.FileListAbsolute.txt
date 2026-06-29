@@ -1,0 +1,17 @@
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Persistence.deps.json
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Persistence.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Persistence.pdb
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Application.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Domain.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Domain.pdb
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Application.pdb
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.csproj.AssemblyReference.cache
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.AssemblyInfoInputs.cache
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.AssemblyInfo.cs
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.csproj.CoreCompileInputs.cache
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\Recruitm.263BEFCC.Up2Date
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\refint\RecruitmentSystem.Persistence.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.pdb
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\ref\RecruitmentSystem.Persistence.dll
