@@ -15,3 +15,4 @@ C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\Recr
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\refint\RecruitmentSystem.Infrastructure.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.pdb
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\ref\RecruitmentSystem.Infrastructure.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.sourcelink.json

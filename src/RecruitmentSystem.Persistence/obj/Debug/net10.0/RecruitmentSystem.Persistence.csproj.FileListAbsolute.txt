@@ -15,3 +15,6 @@ C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\Recruit
 C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\refint\RecruitmentSystem.Persistence.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.pdb
 C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\ref\RecruitmentSystem.Persistence.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\bin\Debug\net10.0\RecruitmentSystem.Persistence.runtimeconfig.json
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.sourcelink.json
+C:\RecruitmentSystem\src\RecruitmentSystem.Persistence\obj\Debug\net10.0\RecruitmentSystem.Persistence.genruntimeconfig.cache

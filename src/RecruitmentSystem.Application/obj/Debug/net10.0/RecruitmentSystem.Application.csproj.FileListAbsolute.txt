@@ -13,3 +13,4 @@ C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\Recruit
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\refint\RecruitmentSystem.Application.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.pdb
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\ref\RecruitmentSystem.Application.dll
+C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.sourcelink.json
