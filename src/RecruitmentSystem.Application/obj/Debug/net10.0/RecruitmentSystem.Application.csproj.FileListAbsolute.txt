@@ -8,9 +8,9 @@ C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\Recruit
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.AssemblyInfoInputs.cache
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.AssemblyInfo.cs
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.csproj.CoreCompileInputs.cache
+C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.sourcelink.json
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\Recruitm.218B9D29.Up2Date
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\refint\RecruitmentSystem.Application.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.pdb
 C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\ref\RecruitmentSystem.Application.dll
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.sourcelink.json

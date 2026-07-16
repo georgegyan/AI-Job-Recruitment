@@ -10,9 +10,9 @@ C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\Recr
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.AssemblyInfoInputs.cache
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.AssemblyInfo.cs
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.sourcelink.json
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\Recruitm.9EAA8ABD.Up2Date
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\refint\RecruitmentSystem.Infrastructure.dll
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.pdb
 C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\ref\RecruitmentSystem.Infrastructure.dll
-C:\RecruitmentSystem\src\RecruitmentSystem.Infrastructure\obj\Debug\net10.0\RecruitmentSystem.Infrastructure.sourcelink.json
