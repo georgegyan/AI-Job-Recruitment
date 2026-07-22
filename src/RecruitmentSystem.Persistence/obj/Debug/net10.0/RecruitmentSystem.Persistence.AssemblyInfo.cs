@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecruitmentSystem.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbcb73014da52ecf34db7e358f8a65a082d6ab69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efbc03b4673b85f6f657b621e3978053a1a5323a")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecruitmentSystem.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecruitmentSystem.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
