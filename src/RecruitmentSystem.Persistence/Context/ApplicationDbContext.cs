@@ -13,13 +13,10 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     {
     }
 
-
     public IQueryable<User> Users => Set<User>();
-
     public IQueryable<Role> Roles => Set<Role>();
-
     public IQueryable<RefreshToken> RefreshTokens => Set<RefreshToken>();
-
+    public DbSet<Company> Companies { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
