@@ -11,7 +11,7 @@ using RecruitmentSystem.Persistence.Context;
 namespace RecruitmentSystem.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260723210717_AddCompany")]
+    [Migration("20260723212815_AddCompany")]
     partial class AddCompany
     {
         /// <inheritdoc />
