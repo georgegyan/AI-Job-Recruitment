@@ -17,6 +17,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     public IQueryable<Role> Roles => Set<Role>();
     public IQueryable<RefreshToken> RefreshTokens => Set<RefreshToken>();
     public DbSet<Company> Companies => Set<Company>();
+    public DbSet<Job> Jobs => Set<Job>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
