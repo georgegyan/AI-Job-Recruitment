@@ -312,7 +312,10 @@
         },
         "runtime": {
           "bin/placeholder/RecruitmentSystem.Application.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "RecruitmentSystem.Domain/1.0.0": {
         "type": "project",
