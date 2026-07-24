@@ -20,4 +20,7 @@ public class User : AuditableEntity
 
     public ICollection<RefreshToken> RefreshTokens { get; set; }
         = new List<RefreshToken>();
+
+    public ICollection<Application> Applications { get; set; }
+    = new List<Application>();
 }

@@ -17,4 +17,7 @@ public class Job : AuditableEntity
     public Guid CompanyId { get; set; }
 
     public Company Company { get; set; } = null!;
+
+    public ICollection<Application> Applications { get; set; }
+    = new List<Application>();
 }
