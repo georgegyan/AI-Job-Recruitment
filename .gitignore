@@ -1,0 +1,28 @@
+# Ignore build artifacts
+**/bin/
+**/obj/
+*.user
+*.suo
+*.vcxproj.user
+*.vs/
+*.log
+*.pdb
+*.cache
+*.db
+*.db-shm
+*.db-wal
+*.suo
+*.user
+*.DS_Store
+.vs/
+
+# Ignore generated files
+*.generated.cs
+*.generated.*
+
+# Ignore Rider files
+.idea/
+
+# Ignore temp files
+*.tmp
+*~

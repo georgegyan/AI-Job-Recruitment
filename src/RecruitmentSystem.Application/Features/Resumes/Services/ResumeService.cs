@@ -3,10 +3,11 @@ using Microsoft.AspNetCore.Http;
 using RecruitmentSystem.Application.Features.Resumes.Responses;
 using RecruitmentSystem.Application.Interfaces.Persistence;
 using RecruitmentSystem.Domain.Entities;
+using RecruitmentSystem.Application.Features.Resumes.Services;
 
 namespace RecruitmentSystem.Application.Features.Resumes.Services;
 
-public class ResumeService : global::RecruitmentSystem.Application.Features.Resumes.Services.IResumeService
+public class ResumeService : IResumeService
 {
     private readonly IResumeRepository _resumeRepository;
     private readonly IUnitOfWork _unitOfWork;

@@ -1,6 +1,0 @@
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.csproj.AssemblyReference.cache
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.AssemblyInfoInputs.cache
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.AssemblyInfo.cs
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.csproj.CoreCompileInputs.cache
-C:\RecruitmentSystem\src\RecruitmentSystem.Application\obj\Debug\net10.0\RecruitmentSystem.Application.sourcelink.json
