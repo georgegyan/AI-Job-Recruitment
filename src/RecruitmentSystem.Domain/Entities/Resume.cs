@@ -11,4 +11,5 @@ public class Resume : AuditableEntity
     public Guid CandidateId { get; set; }
 
     public User Candidate { get; set; } = null!;
+    public ResumeAnalysis? Analysis { get; set; }
 }

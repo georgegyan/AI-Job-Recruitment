@@ -6,7 +6,7 @@ using RecruitmentSystem.Domain.Entities;
 
 namespace RecruitmentSystem.Application.Features.Resumes.Services;
 
-public class ResumeService : IResumeService
+public class ResumeService : global::RecruitmentSystem.Application.Features.Resumes.Services.IResumeService
 {
     private readonly IResumeRepository _resumeRepository;
     private readonly IUnitOfWork _unitOfWork;
