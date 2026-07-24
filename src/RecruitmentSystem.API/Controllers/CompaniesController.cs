@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using RecruitmentSystem.Application.Features.Companies.DTOs;
 using RecruitmentSystem.Application.Features.Companies.Services;
 
 namespace RecruitmentSystem.API.Controllers;
 
+[Authorize(Roles = "Recruiter")]
 [ApiController]
 [Route("api/[controller]")]
 public class CompaniesController(
