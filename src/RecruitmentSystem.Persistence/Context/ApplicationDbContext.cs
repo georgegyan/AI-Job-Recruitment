@@ -19,6 +19,7 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     public DbSet<Company> Companies => Set<Company>();
     public DbSet<Job> Jobs => Set<Job>();
     public DbSet<RecruitmentSystem.Domain.Entities.Application> Applications => Set<RecruitmentSystem.Domain.Entities.Application>();
+    public DbSet<Resume> Resumes => Set<Resume>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

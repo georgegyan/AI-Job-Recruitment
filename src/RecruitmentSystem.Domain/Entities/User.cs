@@ -23,4 +23,6 @@ public class User : AuditableEntity
 
     public ICollection<Application> Applications { get; set; }
     = new List<Application>();
+    public ICollection<Resume> Resumes { get; set; }
+    = new List<Resume>();
 }
