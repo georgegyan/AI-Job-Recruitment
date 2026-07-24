@@ -183,3 +183,7 @@ C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\obj\Debug\net10.0\
 C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\obj\Debug\net10.0\RecruitmentSystem.IntegrationTests.pdb
 C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\obj\Debug\net10.0\RecruitmentSystem.IntegrationTests.genruntimeconfig.cache
 C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\obj\Debug\net10.0\ref\RecruitmentSystem.IntegrationTests.dll
+C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\bin\Debug\net10.0\RecruitmentSystem.API.staticwebassets.runtime.json
+C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\bin\Debug\net10.0\OpenAI.dll
+C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\bin\Debug\net10.0\System.ClientModel.dll
+C:\RecruitmentSystem\tests\RecruitmentSystem.IntegrationTests\bin\Debug\net10.0\System.Memory.Data.dll

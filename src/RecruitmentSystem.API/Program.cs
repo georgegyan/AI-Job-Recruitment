@@ -12,7 +12,9 @@ using RecruitmentSystem.Application.Features.Companies.Services;
 using RecruitmentSystem.Application.Features.Jobs.Services;
 using RecruitmentSystem.Application.Features.Applications.Services;
 using RecruitmentSystem.Application.Features.Resumes.Services;
+using RecruitmentSystem.Application.Features.ResumeAnalysis.Services;
 using System.Text;
+using OpenAiResumeAnalyzerImplementation = RecruitmentSystem.Infrastructure.Services.OpenAiResumeAnalyzer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -109,6 +111,18 @@ builder.Services.AddScoped<
 builder.Services.AddScoped<
     IResumeService,
     ResumeService>();
+
+builder.Services.Configure<OpenAiSettings>(
+    builder.Configuration
+        .GetSection("OpenAiSettings"));
+
+builder.Services.AddScoped<
+    IOpenAiResumeAnalyzer,
+    OpenAiResumeAnalyzerImplementation>();
+
+builder.Services.AddScoped<
+    IResumeAnalysisRepository,
+    ResumeAnalysisRepository>();
 
 var app = builder.Build();
 
